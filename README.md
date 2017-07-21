@@ -6,3 +6,6 @@ Day 22/07/2017 Started Build DragSlider UI
 comming soon ....
 
 <img id="hello" src="https://rawgit.com/DaoHuyTuan/DragSlider/master/img/edit.svg" width="20" height="20" >
+```javascript
+alert("hello");
+```
