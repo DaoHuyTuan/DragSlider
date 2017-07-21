@@ -4,4 +4,5 @@ a slide show drag by hand or mouse
 Day 22/07/2017 Started Build DragSlider UI
 <br>
 comming soon ....
-![alt text](https://rawgit.com/DaoHuyTuan/DragSlider/master/img/edit.svg width="20" height="20")
+
+<img src="https://rawgit.com/DaoHuyTuan/DragSlider/master/img/edit.svg" width="20" height="20">
