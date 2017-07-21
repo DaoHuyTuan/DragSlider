@@ -4,4 +4,4 @@ a slide show drag by hand or mouse
 Day 22/07/2017 Started Build DragSlider UI
 <br>
 comming soon ....
-![alt text](img/edit.svg)
+![alt text](https://rawgit.com/DaoHuyTuan/DragSlider/master/img/edit.svg)
