@@ -1,0 +1,14 @@
+.dragSlider{
+    width:1000px;
+    height:400px;
+    float: left;
+    margin: 50px 50px 50px 50px;
+    background-color: blue;
+
+}
+.slider{
+    width:1000px;
+    height:400px;
+    float: left;
+    background-color: red;
+}
