@@ -1,15 +1,57 @@
-.dragSlider{
-    width:1000px;
-    height:400px;
-    float: left;
-    margin: 50px 50px 50px 50px;
-    background-color: blue;
+*{
+    margin: 0;
+    padding: 0;
 
 }
+
 .slider{
-    width:500px;
+    width:1366px;
     height:400px;
     float: left;
-    background-color: red;
-  
+    overflow: hidden;
+}
+
+.slider figure {
+    width: 400%;
+    position: relative;
+    margin: 0;
+    left: 0;
+    animation: 20s slidy infinite;
+
+}
+@keyframes slidy {
+    0% {
+        left:  0%;
+    }
+    15% {
+        left:  -100%;
+    }
+    30% {
+        left: -200%;
+    }
+    45% {
+        left: -300%;
+    }
+    55% {
+        left: -200%;
+    }
+    70%{
+        left: -100;
+    }
+    100% {
+        left: 0%;
+    }
+
+}
+.page{
+    width:25%;
+    height:400px;
+    float: left;
+    background-color: #95e1d3;
+    
+}
+p{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
 }
