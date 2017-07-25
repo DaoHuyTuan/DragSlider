@@ -8,7 +8,7 @@
     width:1366px;
     height:400px;
     float: left;
-    overflow: hidden;
+    
 }
 
 .slider figure {
@@ -16,7 +16,7 @@
     position: relative;
     margin: 0;
     left: 0;
-    animation: 20s slidy infinite;
+    animation: 30s slidy infinite;
 
 }
 @keyframes slidy {
@@ -47,11 +47,15 @@
     width:25%;
     height:400px;
     float: left;
-    background-color: #95e1d3;
+    position: relative;
+    
     
 }
 p{
     color: white;
     font-size: 30px;
     font-weight: bold;
+    position: absolute;
+    left: 50%;
+    top: 25%
 }
