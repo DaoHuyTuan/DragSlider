@@ -20,7 +20,7 @@
 
 }
 @keyframes slidy {
-    0% {
+    /* 0% {
         left:  0%;
     }
     15% {
@@ -40,7 +40,9 @@
     }
     100% {
         left: 0%;
-    }
+    } */
+    from { background-position: 0; }
+    to { background-position:-200px; }
 
 }
 .page{

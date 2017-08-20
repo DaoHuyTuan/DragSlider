@@ -7,9 +7,9 @@
         <link href="css/style.css" rel="stylesheet">
     </head>
     <body>
-        <div class="slider">
+        <div id="slider">
             <figure>
-                   
+                   <div class="page">
                         <img src="./img/page1.png">
                         <p>Page1</p>
                     </div>   
@@ -25,7 +25,14 @@
                         <img src="./img/page4.png">
                         <p>Page4</p>
                     </div>  
+                    <button id="btnNext">Next</button>
             </figure>     
         </div>
     </body>
+    <script>
+            
+            btnNext.addEventListener("click",function(){
+                slider.style.animation = "slidy 1s step(6) infinite";
+            });
+    </script>
 </html>
