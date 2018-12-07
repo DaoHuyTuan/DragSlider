@@ -5,5 +5,5 @@ Day 22/07/2017 Started Build DragSlider UI
 <br>
 comming soon ....
 
-<img id="hello" src="https://rawgit.com/DaoHuyTuan/DragSlider/master/img/edit.svg" width="20" height="20" >
+<img id="hello" src="https://cdn.jsdelivr.net/gh/DaoHuyTuan/DragSlider/img/edit.svg" width="20" height="20" >
 
